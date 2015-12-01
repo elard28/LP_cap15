@@ -1,0 +1,1 @@
+fun volEsfera(rad) = 4*3.1416*rad*rad*rad/3;

@@ -1,0 +1,3 @@
+(define (lborrada a ls)
+	
+)
